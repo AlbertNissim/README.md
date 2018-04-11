@@ -15,7 +15,8 @@ F-Pattern -
 
 C.R.A.P. - 
 
-Fonts - 
+Fonts - Gugi (font family: 'Gugi', cursive;)
+        Gaegu (font family: 'Gaegu', cursive;)
 
 CSS Architecture - 
 
