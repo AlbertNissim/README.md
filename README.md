@@ -28,4 +28,4 @@ database user =
 database password = 
 database name = 
 
-Issues/troubles: 
+# Issues/troubles: 
