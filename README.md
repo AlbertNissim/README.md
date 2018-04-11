@@ -1,5 +1,5 @@
 # README.md
-# midterm repository
+midterm repository
 
 # Information Architecture 
 
