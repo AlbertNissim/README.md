@@ -9,16 +9,17 @@ Choreography - The choreography of this website is pretty self-explanitory. The 
 
 # Design
 
-Z-Pattern - 
+Z-Pattern - Z-pattern is present on the first page of the website. I took it right from the examples posted online but made it my own by changing the fonts, sizs, images, and theme. 
 
-F-Pattern - 
+F-Pattern - The second page contains three F-patterns within each of the three sections on the lower half of the page. 
 
-C.R.A.P. - 
+C.R.A.P. - contrast, repetition, and allignment are all present on my webpage. The Knicks colors (blue, orange, white) naturally work well together so I stuck with those colors as a theme, using some black and grey when necessary. I have multiple F-patterns on my secondary page, and all my images allign throughout the website. 
 
 Fonts - Gugi (font family: 'Gugi', cursive;)
         Gaegu (font family: 'Gaegu', cursive;)
+        I think the fonts pair nicely together, there was no specific method to choosing them, I just tried a few combinations out and ended up liking this pairing the best. 
 
-CSS Architecture - 
+CSS Architecture - For the most part I followed the Z-pattern. 
 
 # Coder 
 
