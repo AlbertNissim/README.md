@@ -25,9 +25,9 @@ CSS Architecture - For the most part I followed the Z-pattern.
 
 Database Info - 
 
-database host = 
-database user = 
-database password = 
-database name = 
+database host = 128.151.150.17
+database user = urcscon3_anissim
+database password = Giant$1296
+database name = urcscon3_anissim
 
 # Issues/troubles: 
